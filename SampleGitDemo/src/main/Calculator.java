@@ -17,7 +17,7 @@ public class Calculator {
 		public static void mul(int num1,int num2) {
 		System.out.println(num1*num2);
 
-}
+		}
 		public static void div(int num1,int num2) {
 			System.out.println(num1/num2);
 
@@ -37,8 +37,16 @@ public class Calculator {
 		public static void areaofsq(int num1) {
 			System.out.println(num1*num1);
 
+
 	}
+		public static void five(int num1) {
+			System.out.println(num1*num1*num1*num1*num1);
 
+	}
+		public static void area(int num1,int num2) {
+			System.out.println(num1*num2);
 
-
+	}
+ 
+ 
 }
