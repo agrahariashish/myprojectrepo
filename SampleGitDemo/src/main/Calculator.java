@@ -26,10 +26,15 @@ public class Calculator {
 			System.out.println(num1%num2);
 
 	}
-		public static void sq(int num1,int num2) {
-			System.out.println(num1^num2);
+		public static void sq(int num1) {
+			System.out.println(num1*num1);
 
 	}
+		public static void fth(int num1) {
+			System.out.println(num1*num1*num1*num1);
+
+	}
+
 
 
 }
