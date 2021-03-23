@@ -18,5 +18,18 @@ public class Calculator {
 		System.out.println(num1*num2);
 
 }
+		public static void div(int num1,int num2) {
+			System.out.println(num1/num2);
+
+	}
+		public static void mod(int num1,int num2) {
+			System.out.println(num1%num2);
+
+	}
+		public static void sq(int num1,int num2) {
+			System.out.println(num1^num2);
+
+	}
+
 
 }
